@@ -2,7 +2,7 @@
 title: "Ziarul nou începe aici!"
 pubDate: 2026-03-28
 author: "Bota Matei"
-description: "Noua vrsiune de Ziarul Crizantemelor"
+description: "Noua versiune de Ziarul Crizantemelor"
 ---
 
 Versiunea nouă de Ziarul Crizantemelor: 2.0.
