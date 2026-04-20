@@ -1,6 +1,6 @@
 ---
-title: "BREAKING NEWS (FOTO) - Accident brutal pe Strada Avram Iancu"
-pubDate: 2026-03-28
+title: "BREAKING NEWS (FOTO) - Accident pe Strada Avram Iancu"
+pubDate: 2026-04-10
 author: "Bota Matei"
 description: ""
 ---
