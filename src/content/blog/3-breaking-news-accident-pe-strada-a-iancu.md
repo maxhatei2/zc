@@ -15,7 +15,7 @@ Traficul este temporar avariat pe sensul catre Centru. Ambele benzi sunt blocate
 
 Am pus si o imagine mai jos:
 
-![image](./img/3-img-1-accident.jpeg)
+![image](./img/3-img-2-accident.jpeg)
 
 ## Presupuneri
 
