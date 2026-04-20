@@ -1,6 +1,6 @@
 ---
 title: "BREAKING NEWS (FOTO) - Accident pe Strada Avram Iancu"
-pubDate: 2026-04-10
+pubDate: 2026-04-20
 author: "Bota Matei"
 description: ""
 ---
@@ -16,10 +16,6 @@ Traficul este temporar avariat pe sensul catre Centru. Ambele benzi sunt blocate
 Am pus si o imagine mai jos:
 
 ![image](./img/3-img-2-accident.jpeg)
-
-## Presupuneri
-
-Presupunem ca soferul BMW-ului nu s-a uitat in oglinzi cand a schimbat banda sau a intrat in sensul invers (deoarece in imagine asa este pozitionata masina) si motociclistul a intrat in masina, mergand printre benzi.
 
 ## Ce s-a intamplat cu motociclistul?
 
